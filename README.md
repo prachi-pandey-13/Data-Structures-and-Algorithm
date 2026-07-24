@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0136-single-number) |
@@ -11,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0704-binary-search) |
