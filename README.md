@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0136-single-number](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0704-binary-search) |
 ## Binary Search
 |  |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
@@ -26,12 +28,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0268-missing-number) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Math
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -46,4 +50,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0509-fibonacci-number) |
+## Hash Table
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
