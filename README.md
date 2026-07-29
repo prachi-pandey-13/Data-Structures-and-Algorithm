@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0053-maximum-subarray) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0189-rotate-array) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
