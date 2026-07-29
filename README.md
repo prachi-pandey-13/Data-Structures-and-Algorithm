@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0704-binary-search) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
 | ------- |
@@ -73,8 +74,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0283-move-zeroes) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0053-maximum-subarray) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
