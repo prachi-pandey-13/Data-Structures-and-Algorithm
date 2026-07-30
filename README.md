@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -69,11 +70,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0018-4sum) |
 | [0268-missing-number](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
 | [0015-3sum](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0283-move-zeroes) |
