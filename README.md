@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0283-move-zeroes) |
+| [0876-middle-of-the-linked-list](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0876-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Divide and Conquer
 |  |
@@ -107,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0073-set-matrix-zeroes) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
