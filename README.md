@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0189-rotate-array) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0328-odd-even-linked-list) |
