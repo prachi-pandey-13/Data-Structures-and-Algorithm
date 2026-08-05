@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
@@ -111,5 +112,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
