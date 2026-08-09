@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0509-fibonacci-number) |
@@ -129,5 +130,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0078-subsets) |
+## String
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
