@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0216-combination-sum-iii) |
 | [0268-missing-number](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0283-move-zeroes) |
+| [0455-assign-cookies](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0704-binary-search) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0018-4sum) |
 | [0268-missing-number](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0268-missing-number) |
+| [0455-assign-cookies](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0455-assign-cookies) |
 ## Two Pointers
 |  |
 | ------- |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0283-move-zeroes) |
+| [0455-assign-cookies](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0876-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Divide and Conquer
@@ -158,4 +161,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0051-n-queens) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0455-assign-cookies) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
