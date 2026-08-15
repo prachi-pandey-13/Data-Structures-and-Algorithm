@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0509-fibonacci-number) |
 ## Memoization
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0860-lemonade-change) |
 ## Quicksort
