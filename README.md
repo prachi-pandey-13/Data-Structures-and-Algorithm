@@ -155,10 +155,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0022-generate-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0022-generate-parentheses) |
 ## Algorithm X
 |  |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0225-implement-stack-using-queues) |
 ## Design
