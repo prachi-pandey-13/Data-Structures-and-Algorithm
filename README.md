@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0735-asteroid-collision) |
 | [0860-lemonade-change](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0860-lemonade-change) |
 | [1004-max-consecutive-ones-iii](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/1004-max-consecutive-ones-iii) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
@@ -212,8 +213,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/1004-max-consecutive-ones-iii) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/1004-max-consecutive-ones-iii) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
