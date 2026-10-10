@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0232-implement-queue-using-stacks) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Queue
 |  |
 | ------- |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0703-kth-largest-element-in-a-stream) |
 ## DP on Trees
 |  |
 | ------- |
@@ -284,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -296,8 +300,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0215-kth-largest-element-in-an-array) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0215-kth-largest-element-in-an-array) |
+## Data Stream
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0703-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
