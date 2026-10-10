@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0189-rotate-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0216-combination-sum-iii) |
 | [0268-missing-number](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0283-move-zeroes) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0018-4sum) |
+| [0215-kth-largest-element-in-an-array](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0455-assign-cookies) |
 ## Two Pointers
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0053-maximum-subarray) |
+| [0215-kth-largest-element-in-an-array](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0215-kth-largest-element-in-an-array) |
 ## Simulation
 |  |
 | ------- |
@@ -289,4 +292,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
