@@ -171,11 +171,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0022-generate-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/1021-remove-outermost-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0022-generate-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/1021-remove-outermost-parentheses) |
 ## Algorithm X
 |  |
 | ------- |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0232-implement-queue-using-stacks) |
 | [0503-next-greater-element-ii](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0735-asteroid-collision) |
+| [1021-remove-outermost-parentheses](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/1021-remove-outermost-parentheses) |
 ## Design
 |  |
 | ------- |
