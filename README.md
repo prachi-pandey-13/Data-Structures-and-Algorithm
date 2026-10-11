@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0509-fibonacci-number) |
+| [1903-largest-odd-number-in-string](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/1903-largest-odd-number-in-string) |
 ## Recursion
 |  |
 | ------- |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0022-generate-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0151-reverse-words-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/1021-remove-outermost-parentheses) |
+| [1903-largest-odd-number-in-string](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/1903-largest-odd-number-in-string) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0860-lemonade-change) |
+| [1903-largest-odd-number-in-string](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/1903-largest-odd-number-in-string) |
 ## Quicksort
 |  |
 | ------- |
