@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0141-linked-list-cycle) |
 | [0205-isomorphic-strings](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0205-isomorphic-strings) |
+| [0208-implement-trie-prefix-tree](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0268-missing-number) |
 ## Sorting
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0022-generate-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0205-isomorphic-strings) |
+| [0208-implement-trie-prefix-tree](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0242-valid-anagram) |
 | [0796-rotate-string](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/1021-remove-outermost-parentheses) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0155-min-stack) |
+| [0208-implement-trie-prefix-tree](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0208-implement-trie-prefix-tree) |
 | [0225-implement-stack-using-queues](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0232-implement-queue-using-stacks) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -335,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0014-longest-common-prefix) |
+| [0208-implement-trie-prefix-tree](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0208-implement-trie-prefix-tree) |
 ## String Matching
 |  |
 | ------- |
