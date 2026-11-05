@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0735-asteroid-collision) |
 | [0860-lemonade-change](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0860-lemonade-change) |
+| [0994-rotting-oranges](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0073-set-matrix-zeroes) |
+| [0994-rotting-oranges](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0994-rotting-oranges) |
 ## Linked List
 |  |
 | ------- |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0199-binary-tree-right-side-view) |
+| [0994-rotting-oranges](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0994-rotting-oranges) |
 ## Binary Tree
 |  |
 | ------- |
