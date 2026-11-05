@@ -6,19 +6,18 @@ class Solution:
         rows = len(visited)
         cols = len(visited[0])
         initial_color = visited[sr][sc]
-        self.dfs(sr, sc, color, initial_color, visited, rows, cols)
+        queue = deque()
+        queue.append((sr, sc))
+        visited[sr][sc] = color
+        while len(queue) != 0:
+            i,j = queue.popleft()
+            for x, y in [(-1,0), (0, 1), (1,0), (0, -1)]:
+                new_i = i+x
+                new_j = j+y
+                if new_i < 0 or new_i >= rows or new_j < 0 or new_j >= cols:
+                    continue
+                if visited[new_i][new_j] != initial_color:
+                    continue
+                visited[new_i][new_j] = color
+                queue.append((new_i, new_j))
         return visited
-
-    def dfs(self,i,j, new_color, initial_color, visited, rows, cols):
-        if i < 0 or i >= rows or j < 0 or j >= cols:
-            return
-        if visited[i][j] != initial_color:
-            return
-        if visited[i][j] == new_color:
-            return
-        visited[i][j] = new_color
-        self.dfs(i+1, j, new_color, initial_color, visited, rows, cols)
-        self.dfs(i, j+1, new_color, initial_color, visited, rows, cols)
-        self.dfs(i-1, j, new_color, initial_color, visited, rows, cols)
-        self.dfs(i, j-1, new_color, initial_color, visited, rows, cols)
-            
