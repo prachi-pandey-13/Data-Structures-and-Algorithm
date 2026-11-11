@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0503-next-greater-element-ii) |
+| [0542-01-matrix](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0542-01-matrix) |
 | [0704-binary-search](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0735-asteroid-collision) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0509-fibonacci-number](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0509-fibonacci-number) |
+| [0542-01-matrix](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0542-01-matrix) |
 ## Memoization
 |  |
 | ------- |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0073-set-matrix-zeroes) |
+| [0542-01-matrix](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0994-rotting-oranges) |
 ## Linked List
@@ -288,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0199-binary-tree-right-side-view) |
+| [0542-01-matrix](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0994-rotting-oranges) |
 ## Binary Tree
