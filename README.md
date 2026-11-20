@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0216-combination-sum-iii) |
 | [0268-missing-number](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0268-missing-number) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0200-number-of-islands) |
 | [1020-number-of-enclaves](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/1020-number-of-enclaves) |
 ## Matrix
 |  |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0994-rotting-oranges) |
@@ -294,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0130-surrounded-regions](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0543-diameter-of-binary-tree) |
@@ -307,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0994-rotting-oranges) |
