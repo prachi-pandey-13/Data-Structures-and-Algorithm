@@ -16,7 +16,10 @@ class Solution:
                 if visited[adjNode] == color:
                     return False
             else:
-                ans = self.dfs(adjNode, visited, graph, 1-color)
+                if visited[curr_node] == 0:
+                    ans = self.dfs(adjNode, visited, graph, 1)
+                elif visited[curr_node] == 1:
+                    ans = self.dfs(adjNode, visited, graph, 0)
                 if ans == False:
                     return False
         return True
