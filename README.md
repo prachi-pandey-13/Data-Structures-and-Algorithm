@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1631-path-with-minimum-effort](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/1631-path-with-minimum-effort) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/1004-max-consecutive-ones-iii) |
+| [1631-path-with-minimum-effort](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/1631-path-with-minimum-effort) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0200-number-of-islands) |
 | [0785-is-graph-bipartite](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/1631-path-with-minimum-effort) |
 ## Matrix
 |  |
 | ------- |
@@ -173,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/1631-path-with-minimum-effort) |
 ## Linked List
 |  |
 | ------- |
@@ -310,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/1631-path-with-minimum-effort) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -328,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/1631-path-with-minimum-effort) |
 ## Binary Tree
 |  |
 | ------- |
@@ -371,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0215-kth-largest-element-in-an-array) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1631-path-with-minimum-effort](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/1631-path-with-minimum-effort) |
 ## Quickselect
 |  |
 | ------- |
@@ -426,4 +433,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0802-find-eventual-safe-states) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
