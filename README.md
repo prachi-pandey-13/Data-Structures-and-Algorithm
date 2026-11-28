@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0509-fibonacci-number](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0542-01-matrix) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Memoization
 |  |
 | ------- |
@@ -407,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0210-course-schedule-ii) |
 | [0785-is-graph-bipartite](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0802-find-eventual-safe-states) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Graph Coloring
 |  |
 | ------- |
@@ -421,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/0802-find-eventual-safe-states) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
@@ -437,4 +440,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1631-path-with-minimum-effort](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/1631-path-with-minimum-effort) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+## Shortest Path
+|  |
+| ------- |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/prachi-pandey-13/Data-Structures-and-Algorithm/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
